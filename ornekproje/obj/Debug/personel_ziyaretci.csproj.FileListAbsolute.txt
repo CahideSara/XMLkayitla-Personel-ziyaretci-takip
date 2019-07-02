@@ -1,0 +1,9 @@
+C:\Users\asus\documents\visual studio 2013\Projects\ornekproje\ornekproje\obj\Debug\personel_ziyaretci.csprojResolveAssemblyReference.cache
+C:\Users\asus\documents\visual studio 2013\Projects\ornekproje\ornekproje\obj\Debug\ornekproje.Form1.resources
+C:\Users\asus\documents\visual studio 2013\Projects\ornekproje\ornekproje\obj\Debug\ornekproje.Form2.resources
+C:\Users\asus\documents\visual studio 2013\Projects\ornekproje\ornekproje\obj\Debug\ornekproje.Form3.resources
+C:\Users\asus\documents\visual studio 2013\Projects\ornekproje\ornekproje\obj\Debug\ornekproje.Form5.resources
+C:\Users\asus\documents\visual studio 2013\Projects\ornekproje\ornekproje\obj\Debug\ornekproje.Properties.Resources.resources
+C:\Users\asus\documents\visual studio 2013\Projects\ornekproje\ornekproje\obj\Debug\personel_ziyaretci.csproj.GenerateResource.Cache
+C:\Users\asus\documents\visual studio 2013\Projects\ornekproje\ornekproje\obj\Debug\ornekproje.exe
+C:\Users\asus\documents\visual studio 2013\Projects\ornekproje\ornekproje\bin\Debug\ornekproje.exe.config

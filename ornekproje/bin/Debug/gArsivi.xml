@@ -1,0 +1,145 @@
+<?xml version="1.0" standalone="yes"?>
+<Personel>
+  <xs:schema id="Personel" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Personel" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PersonelBilgileri">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TC" type="xs:string" minOccurs="0" />
+                <xs:element name="PERSONEL" type="xs:string" minOccurs="0" />
+                <xs:element name="ZAMAN" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PersonelBilgileri>
+    <TC>14</TC>
+    <PERSONEL>HELİN  AKAR  giriş yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:18:05</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>13</TC>
+    <PERSONEL>HAKAN  ALTUĞ  giriş yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:18:13</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>20</TC>
+    <PERSONEL>SAKİNE  SU  giriş yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:18:17</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>22</TC>
+    <PERSONEL>HÜSEYİN   KUSCU  giriş yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:18:22</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>13</TC>
+    <PERSONEL>HAKAN  ALTUĞ  giriş yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:31:54</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>14</TC>
+    <PERSONEL>HELİN  AKAR  giriş yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:39:59</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>22</TC>
+    <PERSONEL>HÜSEYİN   KUSCU  giriş yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:40:13</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>65</TC>
+    <PERSONEL>TAYFUN  YÜREK  giriş yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:40:21</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>213</TC>
+    <PERSONEL>NAMA  SARA  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:07:51</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>34</TC>
+    <PERSONEL>HAKKI  BULUT  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:08:04</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>20</TC>
+    <PERSONEL>SAKİNE  SU  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:08:12</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>654</TC>
+    <PERSONEL>BETÜL  ÇUKADAR  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:08:29</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>124</TC>
+    <PERSONEL>ASLI  ENVER  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:08:33</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>231</TC>
+    <PERSONEL>MELAHAT  BOZO  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:08:44</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>94</TC>
+    <PERSONEL>ZÜBEYDE  SOL  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:08:55</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>89</TC>
+    <PERSONEL>ASİYE  DALAK  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:09:02</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>23</TC>
+    <PERSONEL>ADEM  YAKA  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:09:20</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>48</TC>
+    <PERSONEL>KEVSER  AKIN  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:09:31</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>32</TC>
+    <PERSONEL>HARUN  BOZ  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:09:36</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>123</TC>
+    <PERSONEL>AHMET  KARADOĞAN  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 15:03:06</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>123</TC>
+    <PERSONEL>AHMET  KARADOĞAN  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 15:04:49</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>23</TC>
+    <PERSONEL>ADEM  YAKA  giriş yapmıstır</PERSONEL>
+    <ZAMAN>5.11.2017 01:37:40</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>34</TC>
+    <PERSONEL>HAKKI  BULUT  giriş yapmıstır</PERSONEL>
+    <ZAMAN>5.11.2017 23:33:33</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>48</TC>
+    <PERSONEL>KEVSER  AKIN  giriş yapmıstır</PERSONEL>
+    <ZAMAN>15.04.2018 21:56:52</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>14</TC>
+    <PERSONEL>HELİN  AKAR  giriş yapmıstır</PERSONEL>
+    <ZAMAN>2.07.2019 17:13:58</ZAMAN>
+  </PersonelBilgileri>
+</Personel>

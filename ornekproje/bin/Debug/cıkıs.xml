@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Personel>
+  <xs:schema id="Personel" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Personel" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PersonelBilgileri">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TC" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PersonelBilgileri>
+    <TC>13</TC>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>32</TC>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>213</TC>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>89</TC>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>94</TC>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>654</TC>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>124</TC>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>65</TC>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>22</TC>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>123</TC>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>48</TC>
+  </PersonelBilgileri>
+</Personel>

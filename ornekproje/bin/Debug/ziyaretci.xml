@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<Ziyaretci>
+  <xs:schema id="Ziyaretci" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Ziyaretci" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ZiyaretciBilgileri">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Adi" type="xs:string" minOccurs="0" />
+                <xs:element name="soyadı" type="xs:string" minOccurs="0" />
+                <xs:element name="TC" type="xs:string" minOccurs="0" />
+                <xs:element name="kimİcin" type="xs:string" minOccurs="0" />
+                <xs:element name="yası" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ZiyaretciBilgileri>
+    <Adi>ADEM</Adi>
+    <soyadı>KILIÇ</soyadı>
+    <TC>25</TC>
+    <kimİcin>SAKİNE</kimİcin>
+    <yası>38</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>KÜBRA</Adi>
+    <soyadı>SU</soyadı>
+    <TC>38</TC>
+    <kimİcin>HAKAN</kimİcin>
+    <yası>52</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>SELİM</Adi>
+    <soyadı>KAYA</soyadı>
+    <TC>47</TC>
+    <kimİcin>HELİN</kimİcin>
+    <yası>34</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>YUSUF</Adi>
+    <soyadı>SARA</soyadı>
+    <TC>88</TC>
+    <kimİcin>HAKKI</kimİcin>
+    <yası>43</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>HAKAN</Adi>
+    <soyadı>SALKIM</soyadı>
+    <TC>65</TC>
+    <kimİcin>AYDA</kimİcin>
+    <yası>35</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>KADİR</Adi>
+    <soyadı>İNANIR</soyadı>
+    <TC>76</TC>
+    <kimİcin>AYDA</kimİcin>
+    <yası>35</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>SARE</Adi>
+    <soyadı>SARE</soyadı>
+    <TC>333</TC>
+    <kimİcin>SAKİNE</kimİcin>
+    <yası>43</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>NAİME</Adi>
+    <soyadı>SARA</soyadı>
+    <TC>123</TC>
+    <kimİcin>HAKKI</kimİcin>
+    <yası>39</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>CAHİDE </Adi>
+    <soyadı>SARA</soyadı>
+    <TC>147</TC>
+    <kimİcin>HAKAN</kimİcin>
+    <yası>39</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>BERFİN</Adi>
+    <soyadı>KAMIŞ</soyadı>
+    <TC>109</TC>
+    <kimİcin>HELİN</kimİcin>
+    <yası>37</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>FATMA </Adi>
+    <soyadı>BAYAZIT</soyadı>
+    <TC>150</TC>
+    <kimİcin>HELİN</kimİcin>
+    <yası>55</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>FULYA</Adi>
+    <soyadı>DEMİR</soyadı>
+    <TC>542</TC>
+    <kimİcin>NAMA</kimİcin>
+    <yası>34</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>DENİZ</Adi>
+    <soyadı>EROĞLU</soyadı>
+    <TC>456</TC>
+    <kimİcin>BETÜL</kimİcin>
+    <yası>34</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>MURAT</Adi>
+    <soyadı>BOZ</soyadı>
+    <TC>676</TC>
+    <kimİcin>ASLI</kimİcin>
+    <yası>40</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>HALİT</Adi>
+    <soyadı>ERGENC</soyadı>
+    <TC>234</TC>
+    <kimİcin>HAKAN</kimİcin>
+    <yası>26</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>AHMET</Adi>
+    <soyadı>KARADOĞAN</soyadı>
+    <TC>1</TC>
+    <kimİcin>AHMET</kimİcin>
+    <yası>15</yası>
+  </ZiyaretciBilgileri>
+  <ZiyaretciBilgileri>
+    <Adi>AHMET</Adi>
+    <soyadı>ko</soyadı>
+    <TC>11</TC>
+    <kimİcin>HAKAN</kimİcin>
+    <yası>15</yası>
+  </ZiyaretciBilgileri>
+</Ziyaretci>

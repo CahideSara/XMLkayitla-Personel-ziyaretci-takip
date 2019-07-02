@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="yes"?>
+<Personel>
+  <xs:schema id="Personel" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Personel" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PersonelBilgileri">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TC" type="xs:string" minOccurs="0" />
+                <xs:element name="PERSONEL" type="xs:string" minOccurs="0" />
+                <xs:element name="ZAMAN" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PersonelBilgileri>
+    <TC>14</TC>
+    <PERSONEL>HELİN  AKAR  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:18:26</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>13</TC>
+    <PERSONEL>HAKAN  ALTUĞ  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:18:31</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>22</TC>
+    <PERSONEL>HÜSEYİN   KUSCU  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:32:03</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>13</TC>
+    <PERSONEL>HAKAN  ALTUĞ  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:39:51</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>20</TC>
+    <PERSONEL>SAKİNE  SU  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>29.05.2017 03:40:08</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>32</TC>
+    <PERSONEL>HARUN  BOZ  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:09:42</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>213</TC>
+    <PERSONEL>NAMA  SARA  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:09:58</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>89</TC>
+    <PERSONEL>ASİYE  DALAK  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:10:05</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>94</TC>
+    <PERSONEL>ZÜBEYDE  SOL  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:10:09</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>48</TC>
+    <PERSONEL>KEVSER  AKIN  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:10:15</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>654</TC>
+    <PERSONEL>BETÜL  ÇUKADAR  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:10:36</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>23</TC>
+    <PERSONEL>ADEM  YAKA  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:10:42</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>124</TC>
+    <PERSONEL>ASLI  ENVER  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:10:57</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>65</TC>
+    <PERSONEL>TAYFUN  YÜREK  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:11:22</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>34</TC>
+    <PERSONEL>HAKKI  BULUT  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:12:03</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>22</TC>
+    <PERSONEL>HÜSEYİN   KUSCU  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:12:29</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>14</TC>
+    <PERSONEL>HELİN  AKAR  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 10:12:45</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>123</TC>
+    <PERSONEL>AHMET  KARADOĞAN  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 15:04:31</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>123</TC>
+    <PERSONEL>AHMET  KARADOĞAN  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>2.06.2017 15:04:53</ZAMAN>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>48</TC>
+    <PERSONEL>KEVSER  AKIN  çıkış yapmıstır</PERSONEL>
+    <ZAMAN>15.04.2018 21:56:59</ZAMAN>
+  </PersonelBilgileri>
+</Personel>

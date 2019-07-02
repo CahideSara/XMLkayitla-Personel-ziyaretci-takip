@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<Personel>
+  <xs:schema id="Personel" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Personel" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PersonelBilgileri">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TC" type="xs:string" minOccurs="0" />
+                <xs:element name="Adi" type="xs:string" minOccurs="0" />
+                <xs:element name="soyadı" type="xs:string" minOccurs="0" />
+                <xs:element name="cinsiyet" type="xs:string" minOccurs="0" />
+                <xs:element name="CalıstıgıKat" type="xs:string" minOccurs="0" />
+                <xs:element name="meslegi" type="xs:string" minOccurs="0" />
+                <xs:element name="yası" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PersonelBilgileri>
+    <TC>14</TC>
+    <Adi>HELİN</Adi>
+    <soyadı>AKAR</soyadı>
+    <cinsiyet>KADIN</cinsiyet>
+    <CalıstıgıKat>2</CalıstıgıKat>
+    <meslegi>BALERİN</meslegi>
+    <yası>31</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>34</TC>
+    <Adi>HAKKI</Adi>
+    <soyadı>BULUT</soyadı>
+    <cinsiyet>ERKEK</cinsiyet>
+    <CalıstıgıKat>3</CalıstıgıKat>
+    <meslegi>ÖGRETMAN</meslegi>
+    <yası>44</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>22</TC>
+    <Adi>HÜSEYİN </Adi>
+    <soyadı>KUSCU</soyadı>
+    <cinsiyet>ERKEK</cinsiyet>
+    <CalıstıgıKat>6</CalıstıgıKat>
+    <meslegi>KASAP</meslegi>
+    <yası>46</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>654</TC>
+    <Adi>BETÜL</Adi>
+    <soyadı>ÇUKADAR</soyadı>
+    <cinsiyet>KADIN</cinsiyet>
+    <CalıstıgıKat>3</CalıstıgıKat>
+    <meslegi>CEO</meslegi>
+    <yası>32</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>213</TC>
+    <Adi>NAMA</Adi>
+    <soyadı>SARA</soyadı>
+    <cinsiyet>ERKEK</cinsiyet>
+    <CalıstıgıKat>6</CalıstıgıKat>
+    <meslegi>KALDIRIM MÜHENDİSİ</meslegi>
+    <yası>50</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>23</TC>
+    <Adi>ADEM</Adi>
+    <soyadı>YAKA</soyadı>
+    <cinsiyet>ERKEK</cinsiyet>
+    <CalıstıgıKat>3</CalıstıgıKat>
+    <meslegi>KALECİ</meslegi>
+    <yası>36</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>65</TC>
+    <Adi>TAYFUN</Adi>
+    <soyadı>YÜREK</soyadı>
+    <cinsiyet>ERKEK</cinsiyet>
+    <CalıstıgıKat>4</CalıstıgıKat>
+    <meslegi>FUTBOLCU</meslegi>
+    <yası>45</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>89</TC>
+    <Adi>ASİYE</Adi>
+    <soyadı>DALAK</soyadı>
+    <cinsiyet>KADIN</cinsiyet>
+    <CalıstıgıKat>6</CalıstıgıKat>
+    <meslegi>DOKTOR</meslegi>
+    <yası>49</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>48</TC>
+    <Adi>KEVSER</Adi>
+    <soyadı>AKIN</soyadı>
+    <cinsiyet>KADIN</cinsiyet>
+    <CalıstıgıKat>3</CalıstıgıKat>
+    <meslegi>ÖGRENCİ</meslegi>
+    <yası>42</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>94</TC>
+    <Adi>ZÜBEYDE</Adi>
+    <soyadı>SOL</soyadı>
+    <cinsiyet>KADIN</cinsiyet>
+    <CalıstıgıKat>2</CalıstıgıKat>
+    <meslegi>ZABITA</meslegi>
+    <yası>26</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>32</TC>
+    <Adi>HARUN</Adi>
+    <soyadı>BOZ</soyadı>
+    <cinsiyet>ERKEK</cinsiyet>
+    <CalıstıgıKat>1</CalıstıgıKat>
+    <meslegi>KUAFÖR</meslegi>
+    <yası>21</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>231</TC>
+    <Adi>MELAHAT</Adi>
+    <soyadı>BOZO</soyadı>
+    <cinsiyet>KADIN</cinsiyet>
+    <CalıstıgıKat>1</CalıstıgıKat>
+    <meslegi>TERZİ</meslegi>
+    <yası>27</yası>
+  </PersonelBilgileri>
+  <PersonelBilgileri>
+    <TC>324</TC>
+    <Adi>FATMA</Adi>
+    <soyadı>şlkj</soyadı>
+    <cinsiyet>KADIN</cinsiyet>
+    <CalıstıgıKat>2</CalıstıgıKat>
+    <meslegi>HEMŞİRE</meslegi>
+    <yası>33</yası>
+  </PersonelBilgileri>
+</Personel>
